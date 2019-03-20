@@ -1,5 +1,6 @@
 ClipBoard
 =========
+[![Build Status](https://dev.azure.com/culllcfc/culllcfc/_apis/build/status/MrCull.ClipBoard?branchName=base)](https://dev.azure.com/culllcfc/culllcfc/_build/latest?definitionId=1&branchName=base) 
 
 Cannot find a perfect clipboard manager so I'm writing my own. This 
 tool is written with .Net 4.5 and runs on Windows.
@@ -13,10 +14,10 @@ clipboard when a "Copy" is performed.
 - Right click an item to save it to the frequently used items list on the top
 - Right click and click remove to remove the selected item
 - Minimize to hide the tool to system tray
-- ``Ctrl+```(ctrl+backtick) or Ctrl+b to bring the tool up
+- ``Ctrl+```(ctrl+backtick) or Ctrl+Space to bring the tool up
 - Clicking on an item also hide the tool to system tray
 
 
-![screenshot](https://raw.githubusercontent.com/yadongwen/ClipBoard/master/Screenshot/2014-05-16%2000_19_52-yadongwen_ClipBoard.png)
+![screenshot](https://raw.githubusercontent.com/MrCull/ClipBoard/base/Screenshot/ClipBoard.png)
 
 ###Enjoy!
