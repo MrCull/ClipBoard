@@ -1,6 +1,6 @@
 ClipBoard
 =========
-[![Build Status](https://dev.azure.com/culllcfc/culllcfc/_apis/build/status/MrCull.ClipBoard?branchName=base)](https://dev.azure.com/culllcfc/culllcfc/_build/latest?definitionId=1&branchName=base) 
+[![Build Status](https://dev.azure.com/culllcfc/culllcfc/_apis/build/status/MrCull.ClipBoard?branchName=master)](https://dev.azure.com/culllcfc/culllcfc/_build/latest?definitionId=1&branchName=base) 
 
 Cannot find a perfect clipboard manager so I'm writing my own. This 
 tool is written with .Net 4.5 and runs on Windows.

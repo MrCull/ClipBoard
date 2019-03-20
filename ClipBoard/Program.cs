@@ -23,7 +23,6 @@ namespace ClipBoard
         [STAThread]
         static void Main()
         {
- Force build to break to test the pipeline
             _hookID = SetHook(_proc);
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
